@@ -63,5 +63,4 @@ pip install flask
 Currently, the form prints submitted data to the terminal.  
 You can integrate **Flask-Mail** or an email API to send form messages directly to your inbox.
 
-## 📝 License
-This project is free to use and modify for personal purposes.
+
